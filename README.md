@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**SachinSatam/SachinSatam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+Hello Nice to meet you 👋
 
-Here are some ideas to get you started:
+I am currently in my final year studying computer engineering💻.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love to work upon building cool computer softwares wether a website🌐, mobile application📱, tool🛠️, programs📟 using various technologies available.
+
+I am currently working on a mobile application named "SkillDeal" you can find the repo over here 👉 https://github.com/SachinSatam/SkillDeal
+
+
+
+
+
